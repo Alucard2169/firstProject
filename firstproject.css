@@ -1,11 +1,8 @@
 @import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Lexend+Deca&display=swap");
 
-*{
-  overflow: auto;
-}
 body {
-  background-color: hsl(233, 47%, 7%), purple;
+  background-color: hsl(233, 47%, 7%);
   height: 100%;
 }
 .container {
