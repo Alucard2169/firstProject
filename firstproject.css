@@ -19,14 +19,17 @@ body {
   box-shadow: 0 0 10px black;
 }
 .image_container {
+   background-color: purple;
   width: 300px;
+   border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
   height: auto;
 }
 .image {
   width: 100%;
   border-top-left-radius: 10px;
   border-top-right-radius: 10px;
-  mix-blend-mode: soft-light;
+  mix-blend-mode: multiply;
 }
 .text-container {
   align-self: center;
