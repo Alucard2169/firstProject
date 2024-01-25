@@ -1,7 +1,9 @@
 # firstProject
-The main image to be used = ![image-header-desktop](https://user-images.githubusercontent.com/85690382/135237463-21f23836-eccc-4840-9cbe-aba681cf9ff5.jpg)
+- The main image to be used
 
-##STYLE GUIDE
+![image-header-desktop](https://user-images.githubusercontent.com/85690382/135237463-21f23836-eccc-4840-9cbe-aba681cf9ff5.jpg)
+
+## STYLE GUIDE
 
 # Front-end Style Guide
 
